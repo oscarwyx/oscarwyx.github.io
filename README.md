@@ -42,7 +42,7 @@ My name is Yongxu Wang, you can also call me Oscar, I am senior student in Unive
    * [link to app page](https://oscarwyx.github.io/quiz-app/)
 * Creat a typescript react app which is online shopping cart.
    * [Link to app page](https://oscarwyx.github.io/ShopingCart-app/)
-   * [link to app code](
+   * [link to app code](https://github.com/oscarwyx/oscarwyx.github.io/tree/main/shopping-cart-app)
 ### React Learning
 * Download react enviroment on my laptop.
 * Use video tutorial[link](https://www.bilibili.com/video/BV1Sb411P79t?p=2)
