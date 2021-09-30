@@ -24,7 +24,19 @@ My name is Yongxu Wang, you can also call me Oscar, I am senior student in Unive
 * How to write function with Typescript.
 * Typescript learning progress:[link](https://github.com/oscarwyx/oscarwyx.github.io/blob/main/TSlearning.ts)
 * Typescript learning tutorial.[link](https://www.youtube.com/watch?v=jrKcJxF0lAU)
-   *
+   * Declaring Variables
+   * TypesType 
+   * Assertions
+   * Arrow Functions
+   * Interfaces
+   * Classes
+   * Objects
+   * Constructors 
+   * Access Modifiers
+   * Access Modifiers in Constructor 
+   * Parameters
+   * Properties
+   * Modules
 * Create a react app with typescript which is called quiz app.
    * [link to app code](https://github.com/oscarwyx/oscarwyx.github.io/tree/main/quiz-app)
    * [link to app page](https://oscarwyx.github.io/quiz-app/)
@@ -52,18 +64,22 @@ My name is Yongxu Wang, you can also call me Oscar, I am senior student in Unive
         * function:
             * Add item.
             * delete item.
-            * 
+            * Navigation bar
+            * Reset all counter
+            * Disable delete button as counter is zero
         * Here is a link to my youtube channel to check my temporary progress.[link](https://youtu.be/98fLikzaC_0).
     * Vildy is a database of movies which can be delated by delete button.
         * Source code[link](https://github.com/oscarwyx/oscarwyx.github.io/tree/main/vidly).
-        *function:
+        * function:
             * With injection movies database. it can show 9 movies' information on the screen.
             * Click delete button you can delete the movie you do not want.
             * On the head of the page, it will show how many movies remain on the screen.
             * when there is no movie remain, it will show a different message.
-            * It has a list group to change genres
+            * List group to change genres
             * It have pagination function
             * It have sorting function in each column
+            * Clean code construction
+            * gather reuseable code in a floder
         * Here is a link to my youtube channel to show my temporary progress [link](https://www.youtube.com/watch?v=rIbAbDVtj6c).
   * Two react app publish page
    * [counter-app](https://oscarwyx.github.io/counter-app/)
