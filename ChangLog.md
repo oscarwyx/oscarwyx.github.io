@@ -99,7 +99,12 @@
   * Add utils.ts 
   * update App.tsx
   * Style the whole quiz-app
+  * Set up Shopping cart app
+  * Creat cart, cartItem and item floder.
+  * update App.tsx with adding function.
 * Sept 30th:
+  * Finished Shopping cart app, style the app and publish to github.
+  * Publish shoppingcart app as a github react app page .[link](https://oscarwyx.github.io/ShopingCart-app/)
   * Publish qiuz-app as a github react app on github page.[link](https://oscarwyx.github.io/quiz-app/)
 <<<<<<< HEAD
   * Publish counter-app as a github react app on github page.[link]()
