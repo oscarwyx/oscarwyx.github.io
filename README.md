@@ -82,8 +82,8 @@ My name is Yongxu Wang, you can also call me Oscar, I am senior student in Unive
             * gather reuseable code in a floder
         * Here is a link to my youtube channel to show my temporary progress [link](https://www.youtube.com/watch?v=rIbAbDVtj6c).
   * Two react app publish page
-   * [counter-app](https://oscarwyx.github.io/counter-app/)
-   * [vidly-movie](https://oscarwyx.github.io/vg/)
+    * [counter-app](https://oscarwyx.github.io/counter-app/)
+    * [vidly-movie](https://oscarwyx.github.io/vg/)
 ### HTML learning
 * My learning toturial:[link](https://www.w3schools.com/html/html_blocks.asp).
 * I have learned html web coding from html online tutorial.
