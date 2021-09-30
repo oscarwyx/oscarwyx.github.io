@@ -102,3 +102,4 @@
 * Sept 30th:
   * Publish qiuz-app as a github react app on github page.[link](https://oscarwyx.github.io/quiz-app/)
   * Publish counter-app as a github react app on github page.[link](https://oscarwyx.github.io/counter-app/)
+  * Publish vidly movie-app as a github react app on github page.[link](https://oscarwyx.github.io/vg/)
