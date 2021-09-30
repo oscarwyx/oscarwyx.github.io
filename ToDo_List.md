@@ -74,6 +74,15 @@
         * Score showing
         * Show correct answer after user click
         * random the position of correct answers
+  * Creat another typescript react app
+  * It is a shopping cart app
+  * Import item as an API
+  * Style cart and item and whole page
+  * add function
+    * shopping cart icon
+    * Add to cart button
+    * Show total money
+    * Show how many items in your cart
 <<<<<<< HEAD
 
 =======
