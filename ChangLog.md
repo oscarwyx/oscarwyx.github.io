@@ -101,10 +101,18 @@
   * Style the whole quiz-app
 * Sept 30th:
   * Publish qiuz-app as a github react app on github page.[link](https://oscarwyx.github.io/quiz-app/)
+<<<<<<< HEAD
   * Publish counter-app as a github react app on github page.[link]()
+=======
+  * Publish counter-app as a github react app on github page.[link](https://oscarwyx.github.io/counter-app/)
+  * Publish vidly movie-app as a github react app on github page.[link](https://oscarwyx.github.io/vg/)
+>>>>>>> e260cd4feae71a6eb39a6213fdf16a4f2a1a97ed
 <<<<<<< HEAD
 
 
 =======
 >>>>>>> origin/main
+<<<<<<< HEAD
 
+=======
+>>>>>>> e260cd4feae71a6eb39a6213fdf16a4f2a1a97ed
