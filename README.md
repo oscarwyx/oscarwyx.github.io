@@ -38,9 +38,11 @@ My name is Yongxu Wang, you can also call me Oscar, I am senior student in Unive
    * Properties
    * Modules
 * Create a react app with typescript which is called quiz app.
+* Follow the tutorial to do this app.[link](https://www.youtube.com/watch?v=sfmL6bGbiN8&t=229s)
    * [link to app code](https://github.com/oscarwyx/oscarwyx.github.io/tree/main/quiz-app)
    * [link to app page](https://oscarwyx.github.io/quiz-app/)
 * Creat a typescript react app which is online shopping cart.
+* Follow the tutorial to do this app.[link](https://www.youtube.com/watch?v=F2JCjVSZlG0&list=PL5VNTioCOMdPqDBHc_QILgsVm1gx3yESQ&index=1&t=6s)
    * [Link to app page](https://oscarwyx.github.io/ShopingCart-app/)
    * [link to app code](https://github.com/oscarwyx/oscarwyx.github.io/tree/main/shopping-cart-app)
 ### React Learning
